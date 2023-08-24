@@ -1,0 +1,16 @@
+Dependencies for Project 'UART_1', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_LPC17xx.s)(0x4F5858EE)(--cpu Cortex-M3 -g --apcs=interwork -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\NXP\LPC17xx --list "startup_LPC17xx.lst" --xref -o "startup_LPC17xx.o" --depend "startup_LPC17xx.d")
+F (.\system_LPC17xx.c)(0x64912075)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\NXP\LPC17xx -o "system_lpc17xx.o" --omf_browse "system_lpc17xx.crf" --depend "system_lpc17xx.d")
+I (C:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x4EB0F5AC)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.h)(0x4FF523F4)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x50064CAA)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x50597FB4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x4FDAB784)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x4F585A9A)
+F (.\main.c)(0x64941E87)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\NXP\LPC17xx -o "main.o" --omf_browse "main.crf" --depend "main.d")
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17XX.H)(0x4FF523F4)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x50064CAA)
+I (C:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x4EB0F5AC)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x50597FB4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x4FDAB784)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x4F585A9A)
