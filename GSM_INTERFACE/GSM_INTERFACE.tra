@@ -1,0 +1,22 @@
+*** Creating Trace Output File 'GSM_INTERFACE.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"startup_lpc17xx.o"'
+### List of Objects: adding '"system_lpc17xx.o"'
+### List of Objects: adding '"main2.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 "startup_lpc17xx.o" "system_lpc17xx.o" "main2.o" 
+--strict --scatter "GSM_INTERFACE.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\GSM_INTERFACE.map" -o GSM_INTERFACE.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'GSM_INTERFACE.axf'
+### ADS-LD Command File: 'GSM_INTERFACE.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'GSM_INTERFACE.lnp', Handle=0x00001238
+### Writing '.lnp' file
+### ADS-LD Command file 'GSM_INTERFACE.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.
