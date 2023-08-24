@@ -1,0 +1,21 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\MK\WORKSHOP_ESD\CAN_TX\CAN_TX.uvproj
+Project File Date:  06/27/2023
+
+<h2>Output:</h2>
+compiling CAN_Rx.c...
+CAN_Rx.c(120): warning:  #1-D: last line of file ends without a newline
+CAN_Rx.c - 0 Error(s), 1 Warning(s).
+Rebuild target 'Target 1'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling CAN_Rx.c...
+CAN_Rx.c(120): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1360 RO-data=432 RW-data=4 ZI-data=612  
+FromELF: creating hex file...
+"CAN_TX.axf" - 0 Error(s), 1 Warning(s).
