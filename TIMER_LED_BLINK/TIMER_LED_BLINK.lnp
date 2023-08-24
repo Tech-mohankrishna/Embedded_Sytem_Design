@@ -1,0 +1,5 @@
+--cpu Cortex-M3 "startup_lpc17xx.o" "system_lpc17xx.o" "main.o" 
+--strict --scatter "TIMER_LED_BLINK.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\TIMER_LED_BLINK.map" -o TIMER_LED_BLINK.axf

@@ -1,0 +1,22 @@
+*** Creating Trace Output File 'TEMP_SENSOR.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"startup_lpc17xx.o"'
+### List of Objects: adding '"system_lpc17xx.o"'
+### List of Objects: adding '"main.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 "startup_lpc17xx.o" "system_lpc17xx.o" "main.o" 
+--strict --scatter "TEMP_SENSOR.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\TEMP_SENSOR.map" -o TEMP_SENSOR.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'TEMP_SENSOR.axf'
+### ADS-LD Command File: 'TEMP_SENSOR.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'TEMP_SENSOR.lnp', Handle=0x00000EC0
+### Writing '.lnp' file
+### ADS-LD Command file 'TEMP_SENSOR.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.
